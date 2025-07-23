@@ -8,7 +8,7 @@ This Tableau dashboard was created to help HR professionals analyze their workfo
 
 Overview
 
-🔹 Summary View
+🔹 Summary View:
 Divided into three main sections:
 1. Overview
    - Total hired, active, and terminated employees
@@ -26,19 +26,19 @@ Divided into three main sections:
    - Age vs salary trends across departments
 
 
-🔹 Employee Records View
+🔹 Employee Records View: 
 An interactive, filterable table containing:
 - Name, Department, Role, Gender, Age, Education, Salary
 - Ability to filter and explore individual records
 
 ---
 
-Dataset
+Dataset: 
 The dataset used in this project was generated using ChatGPT, as guided by the course instructor. It is intended solely for training and visualisation purposes.
 
 ---
 
-📌 Note
+📌 Note: 
 This dashboard was created while following the Tableau Ultimate Course by Data With Baraa. The course content inspired the dataset and business problem. All visuals and analysis were recreated independently as a personal learning project.
 
 ---
